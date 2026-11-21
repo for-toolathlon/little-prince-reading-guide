@@ -1,23 +1,16 @@
-# The Little Prince — Research Notes
+# The Little Prince — Research Hub
 
-- **Book work (Open Library):**
-  - Work key: `/works/OL24965320W`
-  - Edition count: 2 editions
-  - First publication year: 1943
-  - Cover image URL: https://covers.openlibrary.org/b/id/11894771-M.jpg
-  - Author: Antoine de Saint-Exupéry
+- Book: The Little Prince by Antoine de Saint-Exupéry
+- Author: Antoine de Saint-Exupéry (29 June 1900 – 31 July 1944)
+- Open Library: Author key OL31901A, work key (for the main original work) — see note below
+- Open Library edition count: The title search lists many editions; the most relevant Saint-Exupéry original work is recorded as /works/OL43347962W (first publish year: 2016)
+- First publication year: 1943
+- Cover URL: https://covers.openlibrary.org/b/id/15217314-M.jpg
 
-- **Full Open Library author record (Key: OL31901A):**
-  - Name: Antoine de Saint-Exupéry (Saint-Exupery, Antoine de)
-  - Birth date: 29 June 1900
-  - Birth name: Antoine Jean-Baptiste Marie Roger de Saint Exupéry
-  - Death date: 31 July 1944
-  - Date: 1900.6~1944.7.
-  - Photos: 6338378
-  - Top work: "Le petit prince"
-  - Work count: 833
+## Research notes
 
-  Biography from Open Library: Antoine de Saint-Exupéry (29 June 1900—31 July 1944) was a French writer and aviator. He is best remembered for his novella *The Little Prince (Le Petit Prince)*, and for his books about aviation adventures, including *Night Flight* and *Wind, Sand and Stars*.
-  He was a successful commercial pilot before World War II, joining the Armée de l'Air on the outbreak of war, flying reconnaissance missions until the armistice with Germany. Following a spell of writing in the United States, he joined the Free French Forces. He disappeared on a reconnaissance flight over the Mediterranean in July 1944.
-
-- **Wikipedia biography:** Wikipedia search for "Antoine de Saint-Exupéry biography" and "Saint-Exupéry" came back empty, so the biography below reflects the Open Library record above only.
+- Open Library title search for "The Little Prince" returned a list of works, including:
+  - Works authored by Antoine de Saint-Exupéry, e.g. /works/OL24259583W (first publish 2003), /works/OL20300662W (first publish 2015), /works/OL43264921W (first publish 1945), /works/OL15723295W (first publish 2004), /works/OL34814029W (first publish 2015), /works/OL43347962W (first publish 2016), /works/OL45301172W (first publish 2025), etc.
+- Author record (Open Library): Antoine de Saint-Exupéry, key OL31901A, birth date 29 June 1900, death date 31 July 1944, French writer and aviator, best remembered for The Little Prince and books about aviation (Night Flight, Wind, Sand and Stars). Top work: Le petit prince.
+- Biography (Wikipedia): The summary tool timed out; author record on Wikipedia is not available through the tools returned.
+- Guillotine. wrote *The Little Prince* (Le Petit Prince) first published 1943.
